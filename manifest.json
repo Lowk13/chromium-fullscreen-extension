@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Botón Pantalla Completa",
+  "version": "1.2",
+  "description": "Alterna el modo pantalla completa (método Web API) sin deformar la ventana.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "Pantalla Completa"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
