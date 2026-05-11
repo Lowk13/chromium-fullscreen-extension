@@ -13,13 +13,13 @@ The result? When you exit fullscreen, your window remains perfectly maximized, e
 ### ⚙️ How to Install
 Since this is an unpacked developer extension, you need to load it manually:
 1. Download this repository as a `.zip` file (Click the green **Code** button > **Download ZIP**) and extract it to a folder.
-2. Open Google Chrome and go to `chrome://extensions/`.
+2. Open Google Chrome/Brave and go to `chrome://extensions/` / `brave://extensions/`.
 3. Enable **Developer mode** (toggle switch in the top right corner).
 4. Click the **Load unpacked** button in the top left.
 5. Select the folder where you extracted the files.
 6. Pin the extension to your toolbar for easy one-click fullscreen access!
 
-*(Note: Due to Google's security restrictions, this extension will not work on internal `chrome://` pages or the empty New Tab page. It works flawlessly on any standard website).*
+*(Note: Due to Google's security restrictions, this extension will not work on internal `chrome://`// `brave://` pages or the empty New Tab page. It works flawlessly? on any standard website).*
 
 ---
 **Disclaimer:** This project, including the code and the debugging process to bypass the Chromium window bug, was created with the assistance of AI (Google Gemini). Published by a human who just wanted to fix an annoying issue and share the solution with the community! 🤖🤝👨‍💻
